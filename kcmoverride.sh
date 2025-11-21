@@ -36,6 +36,7 @@ KEEP=(
     kcm_screenlocker.so
     kcm_lookandfeel.so
     kcm_printer_manager.so
+    kcm_app-permissions.so
 )
 
 hide_kcms() {
