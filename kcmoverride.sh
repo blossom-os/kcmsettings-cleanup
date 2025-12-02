@@ -38,7 +38,6 @@ KEEP=(
     kcm_printer_manager.so
     kcm_app-permissions.so
     kcm_kwinrules.so
-    kcm_touchscreen.so
     kcm_wacomtablet.so
 )
 
