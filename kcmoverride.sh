@@ -39,6 +39,7 @@ KEEP=(
     kcm_app-permissions.so
     kcm_kwinrules.so
     kcm_wacomtablet.so
+    kcm_componentchooser.so
 )
 
 hide_kcms() {
